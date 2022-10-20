@@ -32,6 +32,6 @@ The project also requires Jupyter-Notebooks
     ```
 3. Open the notebook 
     ```sh
-    jupyter-notebook '../velogames/velogames.pynb'
+    jupyter-notebook '../velogames/velogames_data_collect.pynb'
 
     ```
