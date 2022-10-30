@@ -1,1 +1,4 @@
 *.txt
+.Rproj.user
+project.Rproj
+.Rhistory
